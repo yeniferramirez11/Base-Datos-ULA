@@ -4,4 +4,5 @@
 #### Laboratorio de Base de Datos - Ingeniería de Sistemas - Universidad de Los Andes
 
 * Prof. Solazver Solé
-* Prep. Yenifer Ramírez
+* Preps. Victor Albornoz, Yenifer Ramírez
+
