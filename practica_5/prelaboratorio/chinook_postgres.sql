@@ -3,9 +3,7 @@
 /*------------------------------------------------------------------------------
 ﻿		**************UNIVERSIDAD DE LOS ANDES************
 *
-*Preparadurias bases de datos A-2017 
-*Nerio Moran
-*Alvaro Araujo
+*Preparadurias bases de datos
 *Prof: Solazver Sole
 * DB: Base de datos chinook_postgres.sql
 * PURPOSE: Bases de datos chinook, version para postgres sin comillas 
